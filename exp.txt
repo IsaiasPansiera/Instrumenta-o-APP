@@ -1,0 +1,1 @@
+Necessário começar pensando no tipo de rota que será delegado, pois a mesma vai delegar a tarefa de executar alguma coisa para um CONTROLLER 
